@@ -17,7 +17,7 @@ const Routes = () => {
                 </Route>
             </Switch>
         </BrowserRouter>
-
+Rotas nao está funcionando atualmente
         */
        <Dashboard />
     );
